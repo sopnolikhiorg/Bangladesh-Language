@@ -1,0 +1,7 @@
+{
+  "editor.wordWrap": "on",
+  "[javascript]": {
+    "editor.formatOnSave": false,
+    "editor.fontSize": 22
+  }
+}
